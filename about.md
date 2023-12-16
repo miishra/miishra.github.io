@@ -4,17 +4,17 @@ title: About
 permalink: /about/
 ---
 
-My name is [Abhishek Mishra]
+Well, I am Abhi!
 
 ### More Information
 
-I do my research in @Privatics, Inria, Lyon working along Mathieu cunche (http://perso.citi-lab.fr/mcunche/index.html). My current research interests are: Wireless networks security and privacy, Privacy-preserving network protocols, Anonymisation and differential privacy.
+I do my research in @[Privatics](https://team.inria.fr/privatics/), Inria, Lyon working along [Mathieu cunche](http://perso.citi-lab.fr/mcunche/index.html). My current research interests are: Wireless networks security and privacy, Privacy-preserving network protocols, Anonymisation and differential privacy. I work across disciplines and would be to discuss potential research ideas and opportunities with you. 
 
 ### Background
 
-I am a Ph.D. from Inria Saclay and Ecole Polytechnique(IPP) in Computer Science. The thesis title is "Privacy-aware sensing: From addressing concerns in public wireless packets to obtaining anonymous trajectories". During my thesis I worked with Aline Carneiro Viana, Nadjib Achir, Catuscia Palamidessi, and Marco Fiore.
+I obtained Ph.D. from Inria Saclay and [Ecole Polytechnique](https://www.polytechnique.edu/) in Computer Science. The thesis title is "Privacy-aware sensing: From addressing concerns in public wireless packets to obtaining anonymous trajectories". During my thesis I worked with [Marco Fiore](https://networks.imdea.org/team/imdea-networks-team/people/marco-fiore/), [Catuscia Palamidessi](https://www.lix.polytechnique.fr/~catuscia/), [Aline Carneiro Viana](https://pages.saclay.inria.fr/aline.viana/), and, [Nadjib Achir](https://sites.google.com/view/nadjib-achir/home).
 
-Looking briefly at my academic background, I received a dual master's in Computer Science from KTH Royal Institute of Technology and Sorbonne University in 2020 with a full merit scholarship. My master thesis was at Inria, Paris, and Nokia Bell Labs under the supervision of Renata Teixeira. I finished my engineering degree from the Indian Institute of Technology(IIT), Mandi in 2018 in Electrical Engineering, where I was privileged to complete my bachelor's thesis with distinction.
+Looking briefly at my academic background, I received a dual master's in Computer Science from [KTH Royal Institute of Technology](https://www.kth.se/en) and [Sorbonne University](https://www.sorbonne-universite.fr/en) in 2020 with a full merit scholarship. My master thesis was at Inria, Paris, and Nokia Bell Labs under the supervision of [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/). I finished my engineering degree from the [Indian Institute of Technology(IIT)](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology), Mandi in 2018 in Electrical Engineering, where I was privileged to complete my bachelor's thesis with distinction.
 
 ### Contact me
 
