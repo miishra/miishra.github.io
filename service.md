@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Service
+permalink: /service/
 ---
 
 ## Teaching
