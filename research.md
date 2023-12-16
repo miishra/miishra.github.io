@@ -4,6 +4,10 @@ title: Research
 permalink: /research/
 ---
 
+## Projects
+- [PIVOT](https://pivot-project.info/): Privacy-Integrated design and Validation in the constrained IoT
+- [MITIK](https://project.inria.fr/mitik/): Privacy-preserving passive mobility inference
+
 ## Wireless networks privacy and security
 - [Revealing and exploiting privacy vulnerabilities in users' public wireless packets](https://theses.hal.science/tel-04311364/) (PhD. thesis)
 - [Do WiFi Probe-Requests Reveal Your Trajectory?](https://hal.inria.fr/hal-03906579/)
