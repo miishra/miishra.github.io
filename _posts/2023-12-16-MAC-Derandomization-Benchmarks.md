@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benchmarks for MAC Derandomization!
+title: [Benchmarks for MAC Derandomization](https://ieeexplore.ieee.org/abstract/document/10199706)!
 ---
 
 WiFi-based crowdsensing is a major source of data in a variety of domains such as human-mobility, pollution-level
@@ -18,4 +18,4 @@ evaluated datasets.
 
 Existing and new frameworks can thus be benchmarked using this metric to ensure their reliability for
 any datasets with similar or lower randomization complexities. Finally, we open discussions on the potential impact of the
-benchmarks in the domain of MAC randomization.
+benchmarks in the domain of MAC randomization. 
