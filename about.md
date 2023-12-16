@@ -26,10 +26,10 @@ I finished my engineering degree (2018) from [Indian Institute of Technology(IIT
 
 [abhishek.mishra@inria.fr](mailto:abhishek.mishra@inria.fr)
 
-# PGP: 0xDF2DB84C
+### PGP: 0xDF2DB84C
 fingerprint: 01E6 C42E EC92 0F26 EDD9  1B30 EDDE 3D29 DF2D B84C
 
-# Office address:
+### Office address:
 Inria Antenne Lyon la Doua
 Bâtiment CEI-2
 56, Boulevard Niels Bohr
