@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Benchmarks for MAC Derandomization](https://ieeexplore.ieee.org/abstract/document/10199706)!
+title: Benchmarks for MAC Derandomization!
 ---
 
 WiFi-based crowdsensing is a major source of data in a variety of domains such as human-mobility, pollution-level
@@ -8,8 +8,8 @@ estimation, and, opportunistic networks. MAC randomisation is a backbone for pre
 their identifiers (MAC addresses). 
 
 MAC association frameworks in the literature are able to associate randomized MAC addresses
-with a device. Such frameworks facilitate the continuation and validity of works based on device-based identifiers. In this paper,
-we first question and verify the reliability of these frameworks with respect to the datasets (scenarios) used for their validation. 
+with a device. Such frameworks facilitate the continuation and validity of works based on device-based identifiers. In this [paper](https://ieeexplore.ieee.org/abstract/document/10199706),
+we first question and verify the reliability of these frameworks with respect to the datasets (scenarios) used for their validation.  
 
 Indeed, we observe a substantial discrepancy between the performances obtained by these frameworks when confronting
 them with different contextual environments. We identify that the device heterogeneity in the input scenario is privacy-preserving.
