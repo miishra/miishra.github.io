@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Record-and-replay to emulate WiFi
+title: Public wireless packets anonymously hurt you
 ---
 
 With growing privacy concerns over the last decade, two of the most notable wireless technologies – i.e., 
