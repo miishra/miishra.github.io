@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Near-perfect emulation of WiFi with record-and-replay
+title: Emulation of WiFi with record-and-replay
 ---
 
 [NemFi](https://dl.acm.org/doi/abs/10.1145/3477482.3477484) is a record-and-replay emulator that captures traces representing real WiFi conditions, and later replay these traces 
