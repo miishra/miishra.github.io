@@ -8,7 +8,11 @@ Well, I am Abhi!
 
 ### More Information
 
-I do my research in @[Privatics](https://team.inria.fr/privatics/), Inria, Lyon working along [Mathieu cunche](http://perso.citi-lab.fr/mcunche/index.html). My current research interests are: Wireless networks security and privacy, Privacy-preserving network protocols, Anonymisation and differential privacy. I work across disciplines and would be to discuss potential research ideas and opportunities with you. 
+I do my research in @[Privatics](https://team.inria.fr/privatics/), Inria, Lyon working along [Mathieu cunche](http://perso.citi-lab.fr/mcunche/index.html). 
+
+My current research interests are: Wireless networks security and privacy, Privacy-preserving network protocols, Anonymisation and differential privacy. 
+
+I work across disciplines and would be to discuss potential research ideas and opportunities with you. 
 
 ### Background
 
