@@ -7,7 +7,7 @@ permalink: /publications/
 
 ### 2024: 
 
-* Abhishek Kumar Mishra, Mathieu Cunche. Third eye: Inferring the State of Your Smartphone Through Wi-Fi. LCN 2024 - 49th IEEE Conference on Local Computer Networks, IEEE, Oct 2024, Caen, France. pp.1-7.
+* Abhishek Kumar Mishra, Mathieu Cunche. Third eye: Inferring the State of Your Smartphone Through Wi-Fi. LCN 2024 - 49th IEEE Conference on Local Computer Networks, IEEE LCN, Oct 2024, Caen, France. pp.1-7.
 
 * Samuel Pélissier, Jan Aalmoes, Abhishek Kumar Mishra, Mathieu Cunche, Vincent Roca, and Didier Donsez. 2024. Privacy-Preserving Pseudonyms for LoRaWAN. In Proceedings of the 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec '24).
   
