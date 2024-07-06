@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Third eye: Inferring the State of Your Smartphone Through Wi-Fi!
+title: Third eye - Inferring the State of Your Smartphone Through Wi-Fi!
 ---
 
 Wi-Fi is one of the most notable and prevalent wireless technologies today. Smartphones and other Wi-Fi-enabled devices find nearby networks using management frames known as probe-requests. 
