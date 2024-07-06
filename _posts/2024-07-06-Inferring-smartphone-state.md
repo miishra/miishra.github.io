@@ -7,4 +7,4 @@ Wi-Fi is one of the most notable and prevalent wireless technologies today. Smar
 
 We leverage the differential behaviour of probe-request bursts and their content, based on their device states such as active/static screen and Wi-Fi/power-saving mode ON/OFF. We use a Random Forest based approach that can successfully predict smartphone states just leveraging individual bursts. Based on an evaluation using a real-world dataset of more than 200 smartphones (having a variety of operating systems), with ground truth data available, we show that our model reliably predicts states with accuracy >=98%. 
 
-# [More details here.](https://hal.science/hal-04630691/)
+## [More details here.](https://hal.science/hal-04630691/)
