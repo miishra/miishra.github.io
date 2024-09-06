@@ -18,6 +18,9 @@ I was in charge of teaching courses for the Computer Science department(DIX), at
 
 ## Open-source
 
-- [NemFi](https://gitlab.inria.fr/mabhishe/nemfi): Record-and-replay for WiFi
+- [NemFi](https://gitlab.inria.fr/mabhishe/nemfi): Record-and-replay for Wi-Fi
 - [SimBle](https://gitlab.inria.fr/mabhishe/simble): Privacy-preserving BLE simulator in NS-3 framework
+- [Anonymous Passive Wi-Fi Measurements](https://gitlab.inria.fr/mitik/anonymous-measurement/mitik-sens)
+- [Large scale Passive Sniffing](https://gitlab.inria.fr/mitik/measurement-management/mitik-mgmt)
+- [MAC Address Association Framework - Bleach](https://gitlab.inria.fr/mitik/mac-association/mitik-link)
 - Wisurve: Generating large-scale traces for WiFi passive sniffing
