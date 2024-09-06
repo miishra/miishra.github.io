@@ -6,6 +6,7 @@ permalink: /publications/
 ## [Google Scholar](https://scholar.google.fr/citations?hl=en&user=4d47gF4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ### 2024: 
+* Mishra, Abhishek Kumar, and Sachit Mishra. "Revealing Disparities in Public and Digital Infrastructure of Developing Countries." NetMob, Washington DC, October 2024. 
 
 * Mishra, Abhishek Kumar, Aline Carneiro Viana, and Nadjib Achir. "Bleach: From WiFi probe-request signatures to MAC association." Ad Hoc Networks (2024): 103623.
 
