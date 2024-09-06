@@ -23,4 +23,3 @@ I was in charge of teaching courses for the Computer Science department(DIX), at
 - [Anonymous Passive Wi-Fi Measurements](https://gitlab.inria.fr/mitik/anonymous-measurement/mitik-sens)
 - [Large scale Passive Sniffing](https://gitlab.inria.fr/mitik/measurement-management/mitik-mgmt)
 - [MAC Address Association Framework - Bleach](https://gitlab.inria.fr/mitik/mac-association/mitik-link)
-- Wisurve: Generating large-scale traces for WiFi passive sniffing
