@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Selected Publications 
 permalink: /publications/
 ---
 ## [Google Scholar](https://scholar.google.fr/citations?hl=en&user=4d47gF4AAAAJ&view_op=list_works&sortby=pubdate)
