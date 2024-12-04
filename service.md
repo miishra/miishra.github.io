@@ -12,8 +12,12 @@ I was in charge of teaching courses for the Computer Science department(DIX), at
 - CSE 201: Object-oriented programming in C++ (Fall 2022)
 - INF 442: Algorithms for data science (Spring 2022)
 
+I was in charge of teaching courses for the Computer Science department, at INSA, Lyon. I taught 14 hours:
+- 4TC(A)-CSC: Cryptography and Communications Security (Fall 2024) 
+
 ## Research Community
 - Served as a reviewer for ACM WiSec'24
+- Served as a reviewer for ACM WiSec'25
 - Served as an external reviewer for Elsevier Pervasive and Mobile Computing, 24
 
 ## Open-source
