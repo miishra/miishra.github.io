@@ -6,7 +6,7 @@ permalink: /publications/
 ## [Google Scholar](https://scholar.google.fr/citations?hl=en&user=4d47gF4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ### 2024: 
-* Pélissier, Samuel, et al. "Enhancing IoT Privacy: Why DNS-over-HTTPS Alone Falls Short?." 23rd IEEE International Conference on Trust, Security, and Privacy in Computing and Communications. 2024.
+* Pélissier, Samuel, et al. "Enhancing IoT Privacy: Why DNS-over-HTTPS Alone Falls Short?." 23rd IEEE International Conference on Trust, Security, and Privacy in Computing and Communications (TrustCom). 2024. 
 
 * Abhishek Kumar Mishra, Samuel Pélissier, Mathieu Cunche. Fingerprinting Connected Wi-Fi Devices Using Per-network MAC Addresses. 17th International Symposium on Foundations and Practice of Security (FPS – 2024), Montreal, Canada. 
 
