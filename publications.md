@@ -6,9 +6,13 @@ permalink: /publications/
 ## [Google Scholar](https://scholar.google.fr/citations?hl=en&user=4d47gF4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ### 2024: 
-* Mishra, Abhishek Kumar, and Sachit Mishra. "Revealing Disparities in Public and Digital Infrastructure of Developing Countries." NetMob, Washington DC, October 2024. 
+* Pélissier, Samuel, et al. "Enhancing IoT Privacy: Why DNS-over-HTTPS Alone Falls Short?." 23rd IEEE International Conference on Trust, Security, and Privacy in Computing and Communications. 2024.
+
+* Abhishek Kumar Mishra, Samuel Pélissier, Mathieu Cunche. Fingerprinting Connected Wi-Fi Devices Using Per-network MAC Addresses. 17th International Symposium on Foundations and Practice of Security (FPS – 2024), Montreal, Canada. 
 
 * Mishra, Abhishek Kumar, Aline Carneiro Viana, and Nadjib Achir. "Bleach: From WiFi probe-request signatures to MAC association." Ad Hoc Networks (2024): 103623.
+
+* Mishra, Abhishek Kumar, and Sachit Mishra. "Revealing Disparities in Public and Digital Infrastructure of Developing Countries." NetMob, Washington DC, October 2024. 
 
 * Abhishek Kumar Mishra, Mathieu Cunche. Third eye: Inferring the State of Your Smartphone Through Wi-Fi. LCN 2024 - 49th IEEE Conference on Local Computer Networks, IEEE LCN, Oct 2024, Caen, France. pp.1-7.
 
