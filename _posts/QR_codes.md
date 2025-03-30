@@ -1,0 +1,13 @@
+---
+layout: post
+title: QRisk: Think Before You Scan QR codes
+---
+
+QR codes are pervasive in modern digital interactions, but despite their convenience, they pose significant privacy risks that are often underestimated. 
+
+For instance, privacy issues escalate when scanned URLs trigger HTTP redirections involving QR URL shorteners and third-party domains, exposing user data to external entities. 
+However, a comprehensive study of the privacy implications of QR code interactions concerning cookie exploitation and query strings remains lacking in the literature. 
+
+To address this, we collected a dataset of 860 QR codes over a two-year period from France, China, Austria, India, and Canada, to analyze the privacy risks associated with QR code usage. 
+In this paper, [QRisk](https://hal.science/hal-04987069/), we find that 39.2% of redirected URLs set cookies, including tracking, analytics, and advertising cookies, enabling potential cross-session behavioral profiling. 
+Additionally, over 25% of QR URLs embed query strings that not only contain sensitive user identifiers but also carry information such as location data, leading to user profiling and social link inference.
