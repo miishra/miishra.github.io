@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QRisk: Think Before You Scan QR codes
+title: Think Before You Scan QR codes
 ---
 
 QR codes are pervasive in modern digital interactions, but despite their convenience, they pose significant privacy risks that are often underestimated. 
