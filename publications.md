@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 ## [Google Scholar](https://scholar.google.fr/citations?hl=en&user=4d47gF4AAAAJ&view_op=list_works&sortby=pubdate)
 
+### 2025: 
+* Mishra, Abhishek, et al. QRisk: Unveiling Privacy Risks of QR Code Scanning." ARES, 2025. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/ARES_QR_codes.pdf)
+  
+* Pélissier, Samuel, et al. "Efficiently linking LoRaWAN identifiers through multi-domain fingerprinting." Pervasive and Mobile Computing, 2025. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/PMC2024_LoRaWAN.pdf) 
+
 ### 2024: 
 * Pélissier, Samuel, et al. "Enhancing IoT Privacy: Why DNS-over-HTTPS Alone Falls Short?." 23rd IEEE International Conference on Trust, Security, and Privacy in Computing and Communications (TrustCom). 2024. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/TrustCom_2024_Encrypted_DNS_IoT.pdf) 
 
