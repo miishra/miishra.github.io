@@ -7,7 +7,7 @@ permalink: /publications/
 
 ### 2025: 
 * Losty, Andrew, Mishra, Abhishek, et al. "Towards Operational and Security Best Practices for DNS in the Internet of Things." ACM Applied
-Networking Research Workshop (ANRW’25), 2025. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/anrw2025-final32.pdf) 
+Networking Research Workshop (ANRW), 2025. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/anrw2025-final32.pdf) 
 
 * Mishra, Abhishek, et al. "QRisk: Unveiling Privacy Risks of QR Code Scanning." ARES, 2025. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/ARES_QR_codes.pdf)
   
