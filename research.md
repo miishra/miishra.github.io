@@ -20,8 +20,7 @@ permalink: /research/
 
 ## Usable privacy
 - A. Mishra, G. Gagnon, M. Cunche. ”QRisk: Unveiling Privacy Risks of QR Code Scanning.” ARES, 2025.
-- A. Mishra, M. Cunche. ”Third Eye: Inferring the State of Your Smartphone Through WiFi.” IEEE LCN ,
-2024. 
+- A. Mishra, M. Cunche. ”Third Eye: Inferring the State of Your Smartphone Through WiFi.” IEEE LCN, 2024. 
 
 ## Wireless privacy and security
 - A. Mishra, A. C. Viana, and N. Achir. ”Bleach: From WiFi Probe-request Signatures to MAC Association.”
