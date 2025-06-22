@@ -4,9 +4,19 @@ title: Research
 permalink: /research/
 ---
 
-## Projects
-- [PIVOT](https://pivot-project.info/): Privacy-Integrated design and Validation in the constrained IoT
-- [MITIK](https://project.inria.fr/mitik/): Privacy-preserving passive mobility inference
+## Collaborations
+- Internet privacy: UCL, London
+- Usable privacy: UQAM, Montreal
+- Data privacy: Imdea, Madrid, and ENS, Lyon
+- Wireless privacy: Northeastern University, Boston
+- ML privacy: INSA, Lyon, and Penn State University
+
+## Internet privacy
+- A. Losty, A. Mishra, M. Cunche, A. M. Mandalari. ”Towards Operational and Security Best Practices for DNS in the Internet of Things.” ACM Applied Networking Research Workshop (ANRW), 2025
+- S. Pelissier, G. Anselmi, A. Mishra, A. M. Mandalari, M. Cunche. ”Enhancing IoT Privacy: Why DNS-over-HTTPS Alone Falls Short?” IEEE TrustCom, 2024.
+
+## Usable privacy
+- A. Mishra, G. Gagnon, M. Cunche. ”QRisk: Unveiling Privacy Risks of QR Code Scanning.” ARES, 2025.
 
 ## Wireless networks privacy and security
 - [Revealing and exploiting privacy vulnerabilities in users' public wireless packets](https://theses.hal.science/tel-04311364/) (PhD. thesis)
@@ -18,7 +28,3 @@ permalink: /research/
 
 ## Anonymisation and Differential Privacy
 - [Performance Analysis of a Privacy-Preserving Frame Sniffer on a Raspberry Pi](https://ieeexplore.ieee.org/abstract/document/9955615)
-
-## Networked systems design
-- [NemFi - Record-and-replay to emulate WiFi](https://dl.acm.org/doi/abs/10.1145/3477482.3477484) (Master's thesis)
-- Developing Uplink Multi-User Scheduling in WiFi 6 (Bachelor's thesis)
