@@ -18,6 +18,6 @@ Despite being small and often unattended, IoT devices make frequent DNS queries�
 This is a **call for discussion and feedback** from the community. The draft is currently under review in the IETF IoT Operations (iotops) working group, and we welcome your thoughts, use cases, or operational insights.
 
 You can find the live draft here:  
-📄 [IETF Draft: draft-mishra-iotops-iot-dns-guidelines]https://datatracker.ietf.org/doc/draft-mishra-iotops-iot-dns-guidelines/  
+📄 [IETF Draft: draft-mishra-iotops-iot-dns-guidelines](https://datatracker.ietf.org/doc/draft-mishra-iotops-iot-dns-guidelines/) 
 
 Let’s work together to shape a more secure and private DNS future for IoT.
