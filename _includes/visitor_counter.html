@@ -1,31 +1,101 @@
-<div id="visitor-counter" aria-live="polite" style="font-size:0.9rem; text-align:center; margin:0.75rem 0; color: #666;">
-  <span class="vc-label" style="margin-right:0.4rem;">Visitors:</span>
-  <span id="visitor-count" style="font-weight:600">…</span>
+<div id="visitor-counter-container" aria-live="polite">
+  <div id="visitor-counter">
+    <svg class="visitor-icon" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+      <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
+    </svg>
+    <span id="visitor-count" class="visitor-number">…</span>
+    <span class="visitor-label">Visitors</span>
+  </div>
 </div>
 
 <style>
-  /* Small, unobtrusive counter styling — override in your site CSS if desired */
-  #visitor-counter { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+  #visitor-counter-container {
+    margin-top: 1.5rem;
+    text-align: center;
+  }
+  
+  #visitor-counter {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 1.5rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 50px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+    transition: all 0.3s ease;
+    cursor: default;
+  }
+  
+  #visitor-counter:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5);
+  }
+  
+  .visitor-icon {
+    animation: pulse 2s infinite;
+  }
+  
+  .visitor-number {
+    font-size: 1.5rem;
+    font-weight: 700;
+    min-width: 3rem;
+    text-align: center;
+  }
+  
+  .visitor-label {
+    font-size: 0.9rem;
+    opacity: 0.95;
+    letter-spacing: 0.5px;
+  }
+  
+  @keyframes pulse {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.7;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    #visitor-counter {
+      padding: 0.75rem 1rem;
+      font-size: 1rem;
+      gap: 0.5rem;
+    }
+    
+    .visitor-icon {
+      width: 20px;
+      height: 20px;
+    }
+    
+    .visitor-number {
+      font-size: 1.25rem;
+    }
+    
+    .visitor-label {
+      display: none;
+    }
+  }
 </style>
 
 <script>
-// Lightweight CountAPI visitor counter.
+// Self-hosted visitor counter using Jekyll data.
 (function(){
   try {
-    var ns = 'miishra-github-io'; // namespace for CountAPI (site-specific)
-    var key = 'site-visitors';
     var el = document.getElementById('visitor-count');
     if (!el) return;
-    var url = 'https://api.countapi.xyz/hit/' + encodeURIComponent(ns) + '/' + encodeURIComponent(key);
-    // Use no-store to avoid caching in some browsers
-    fetch(url, { cache: 'no-store' })
-      .then(function(res){ return res.json(); })
-      .then(function(data){
-        if (data && typeof data.value !== 'undefined') {
-          el.textContent = Number(data.value).toLocaleString();
-        }
-      })
-      .catch(function(){ el.textContent = '—'; });
+    
+    // Display the count from Jekyll's data (static, served at build time)
+    var count = {{ site.data.visitor_count.count | default: 0 }};
+    if (count && typeof count === 'number') {
+      el.textContent = count.toLocaleString();
+    } else {
+      el.textContent = '0';
+    }
   } catch (e) {
     /* fail silently */
   }
