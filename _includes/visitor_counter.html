@@ -71,19 +71,48 @@
 </style>
 
 <script>
-// Self-hosted visitor counter using Jekyll data.
+// Self-hosted visitor counter using Cloudflare Worker for real-time increments.
 (function(){
   try {
     var el = document.getElementById('visitor-count');
     if (!el) return;
     
-    // Display the count from Jekyll's data (static, served at build time)
+    // First, display the current count from Jekyll's data
     var count = {{ site.data.visitor_count.count | default: 0 }};
     if (count && typeof count === 'number') {
       el.textContent = count.toLocaleString();
     } else {
       el.textContent = '0';
     }
+    
+    // Then, asynchronously increment the counter via Cloudflare Worker
+    (function incrementCounter() {
+      // Only increment once per session to avoid duplicates on page reload
+      if (sessionStorage.getItem('visitor-counted')) {
+        return;
+      }
+      
+      // Replace with your actual Cloudflare Worker URL
+      var workerUrl = 'https://your-worker-subdomain.workers.dev/increment';
+      
+      fetch(workerUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' }
+      })
+      .then(function(res) { return res.json(); })
+      .then(function(data) {
+        if (data.count) {
+          // Update display with new count from server
+          el.textContent = data.count.toLocaleString();
+          sessionStorage.setItem('visitor-counted', 'true');
+        }
+      })
+      .catch(function(err) {
+        console.warn('Visitor counter update failed:', err);
+        // Fail silently - don't disrupt user experience
+      });
+    })();
+    
   } catch (e) {
     /* fail silently */
   }

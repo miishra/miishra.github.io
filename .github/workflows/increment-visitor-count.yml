@@ -1,33 +1,28 @@
-name: Increment Visitor Count
+name: Deploy Site
 
 on:
-  schedule:
-    # Run every 1 minute to catch page views
-    - cron: '* * * * *'
-  workflow_dispatch:
+  push:
+    branches:
+      - master
 
 jobs:
-  increment-count:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Read and increment visitor count
-        id: increment
-        run: |
-          # Read current count
-          COUNT=$(jq '.count' _data/visitor_count.json)
-          # Increment by 1
-          NEW_COUNT=$((COUNT + 1))
-          # Update JSON file
-          jq ".count = $NEW_COUNT | .last_updated = \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"" _data/visitor_count.json > temp.json && mv temp.json _data/visitor_count.json
-          echo "new_count=$NEW_COUNT" >> $GITHUB_OUTPUT
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add _data/visitor_count.json
-          git commit -m "chore: increment visitor count to ${{ steps.increment.outputs.new_count }}" || echo "No changes to commit"
-          git push
+      
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2
+          bundler-cache: true
+      
+      - name: Build
+        run: bundle exec jekyll build
+      
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
