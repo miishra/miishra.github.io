@@ -1,0 +1,33 @@
+<div id="visitor-counter" aria-live="polite" style="font-size:0.9rem; text-align:center; margin:0.75rem 0; color: #666;">
+  <span class="vc-label" style="margin-right:0.4rem;">Visitors:</span>
+  <span id="visitor-count" style="font-weight:600">…</span>
+</div>
+
+<style>
+  /* Small, unobtrusive counter styling — override in your site CSS if desired */
+  #visitor-counter { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+</style>
+
+<script>
+// Lightweight CountAPI visitor counter.
+(function(){
+  try {
+    var ns = 'miishra-github-io'; // namespace for CountAPI (site-specific)
+    var key = 'site-visitors';
+    var el = document.getElementById('visitor-count');
+    if (!el) return;
+    var url = 'https://api.countapi.xyz/hit/' + encodeURIComponent(ns) + '/' + encodeURIComponent(key);
+    // Use no-store to avoid caching in some browsers
+    fetch(url, { cache: 'no-store' })
+      .then(function(res){ return res.json(); })
+      .then(function(data){
+        if (data && typeof data.value !== 'undefined') {
+          el.textContent = Number(data.value).toLocaleString();
+        }
+      })
+      .catch(function(){ el.textContent = '—'; });
+  } catch (e) {
+    /* fail silently */
+  }
+})();
+</script>
