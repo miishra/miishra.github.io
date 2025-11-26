@@ -95,9 +95,10 @@
       // Replace with your actual Cloudflare Worker URL
       var workerUrl = 'https://mishra.abhimishra6396.workers.dev';
       
+      // Send a minimal POST without a Content-Type header to avoid preflight OPTIONS
       fetch(workerUrl, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' }
+        body: ''
       })
       .then(function(res) { return res.json(); })
       .then(function(data) {

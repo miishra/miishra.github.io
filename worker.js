@@ -4,8 +4,25 @@
 
 export default {
   async fetch(request, env) {
+    // Handle CORS preflight
+    if (request.method === 'OPTIONS') {
+      return new Response(null, {
+        status: 204,
+        headers: {
+          'Access-Control-Allow-Origin': 'https://miishra.github.io',
+          'Access-Control-Allow-Methods': 'POST, OPTIONS',
+          'Access-Control-Allow-Headers': 'Content-Type'
+        }
+      });
+    }
+
     if (request.method !== 'POST') {
-      return new Response('Only POST requests are allowed', { status: 405 });
+      return new Response('Only POST requests are allowed', {
+        status: 405,
+        headers: {
+          'Access-Control-Allow-Origin': 'https://miishra.github.io'
+        }
+      });
     }
 
     try {
@@ -62,14 +79,24 @@ export default {
 
       if (updateResponse.ok) {
         return new Response(JSON.stringify({ count: json.count }), {
-          headers: { 'Content-Type': 'application/json' }
+          status: 200,
+          headers: {
+            'Content-Type': 'application/json',
+            'Access-Control-Allow-Origin': 'https://miishra.github.io'
+          }
         });
       } else {
-        return new Response('Failed to update file', { status: 500 });
+        return new Response('Failed to update file', {
+          status: 500,
+          headers: { 'Access-Control-Allow-Origin': 'https://miishra.github.io' }
+        });
       }
     } catch (error) {
       console.error('Error:', error);
-      return new Response('Internal server error', { status: 500 });
+      return new Response('Internal server error', {
+        status: 500,
+        headers: { 'Access-Control-Allow-Origin': 'https://miishra.github.io' }
+      });
     }
   }
 };
