@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LDP-Toolbox – Making Local Differential Privacy Practical
+title: Making Local Differential Privacy Practical
 ---
 
 Local Differential Privacy (LDP) is a powerful framework that provides strong, formal privacy guarantees without requiring a trusted curator. This makes it an attractive approach for privacy-preserving data collection and analysis across distributed systems. However, despite decades of research, practitioners often struggle with a fundamental challenge: **how do you actually tune LDP parameters in practice?**
