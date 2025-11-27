@@ -70,5 +70,3 @@ This tool democratizes LDP. It transforms LDP from an abstract theoretical conce
 For anyone working on privacy-preserving systems, federated learning, or sensitive data analysis, LDP-Toolbox is worth exploring. It's a step forward in making privacy practical.
 
 ---
-
-**Reference**: Harcolezi et al., "LDP-Toolbox: A Web-based Interactive Toolbox for Practical Differential Privacy," ACM Conference on Privacy-Preserving Technologies, 2024.
