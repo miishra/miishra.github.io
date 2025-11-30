@@ -6,6 +6,8 @@ permalink: /publications/
 ## [Google Scholar](https://scholar.google.fr/citations?hl=en&user=4d47gF4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ### 2025: 
+* Zhang, Haoying, Abhishek K. Mishra, and Héber H. Arcolezi. "Exploring Utility and Attackability Trade-offs in Local Differential Privacy." Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS). 2025. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/2025_LDP_Toolbox.pdf) 
+
 * Losty, Andrew, Mishra, Abhishek, et al. "Towards Operational and Security Best Practices for DNS in the Internet of Things." ACM Applied
 Networking Research Workshop (ANRW), 2025. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/anrw2025-final32.pdf) 
 
