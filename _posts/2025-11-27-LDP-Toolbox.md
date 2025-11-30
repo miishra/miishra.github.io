@@ -57,11 +57,12 @@ But without practical tools, LDP adoption remains limited. LDP-Toolbox aims to c
 
 ## Get Started
 
-The toolbox[https://dl.acm.org/doi/abs/10.1145/3719027.3760706] is **open-source and free** to use:
+The toolbox is **open-source and free** to use:
 
 - **PyPI Package**: [ldp-toolbox](https://pypi.org/project/ldp-toolbox)
 - **GitHub Repository**: [https://github.com/hharcolezi/ldp-toolbox](https://github.com/hharcolezi/ldp-toolbox)
 - **Video Demo**: Available on the GitHub repository
+- **Paper**: [https://dl.acm.org/doi/10.1145/3719027.3760706](https://dl.acm.org/doi/10.1145/3719027.3760706)
 
 ## Implications
 
