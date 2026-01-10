@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Model’s Language Matters: A Comparative Privacy Analysis of LLMs"
+title: "The Language of the LLM Itself Shapes Its Privacy Leakage"
 ---
 
 Large language models (LLMs) are increasingly deployed in multilingual and sensitive settings, from healthcare and legal assistance to customer support and education. While much of the privacy literature focuses on model size, training data, or attack design, a fundamental question has remained largely unexplored: **does the language itself influence privacy leakage in LLMs?**
