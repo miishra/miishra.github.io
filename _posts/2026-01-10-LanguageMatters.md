@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Language of the LLM Itself Shapes Its Privacy Leakage"
+title: "Language of LLMs Itself Shapes Privacy Leakage"
 ---
 
 Large language models (LLMs) are increasingly deployed in multilingual and sensitive settings, from healthcare and legal assistance to customer support and education. While much of the privacy literature focuses on model size, training data, or attack design, a fundamental question has remained largely unexplored: **does the language itself influence privacy leakage in LLMs?**
@@ -44,5 +44,5 @@ Our work highlights language as a **first-class dimension** in LLM privacy analy
 
 ## Read the paper
 
-- 📄 Preprint: https://arxiv.org/abs/2510.08813
+- 📄 [Preprint](https://arxiv.org/abs/2510.08813)
 - 📍 To appear at **EACL 2026 (European Chapter of the Association for Computational Linguistics)**
