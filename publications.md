@@ -6,10 +6,12 @@ permalink: /publications/
 ## [Google Scholar](https://scholar.google.fr/citations?hl=en&user=4d47gF4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ### 2026:
-* Abhishek K. Mishra, Antoine Bouter, Lucas Magnana. The Model's Language Matters: A Comparative Privacy Analysis of LLMs. European Chapter of the Association for Computational Linguistics (EACL 2026). [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/LangMatters.pdf)
+* Abhishek K. Mishra, Mathieu Cunche. "StateFi: Effectively Identifying Wi-Fi Devices through State Transitions". ACM WiSec, 2026. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/StateFi.pdf)
+  
+* Abhishek K. Mishra, Antoine Bouter, Lucas Magnana. "The Model's Language Matters: A Comparative Privacy Analysis of LLMs". European Chapter of the Association for Computational Linguistics (EACL 2026). [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/LangMatters.pdf)
 
 ### 2025: 
-* Abhishek K. Mishra, Marco Fiore. k-scale: k-Anonymizing Millions of Trajectories. IEEE INFOCOM 2026, May 2025, Tokyo, Japan. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/Efficiently_k_anonymizing_a_Million_Trajectories___IEEE_INFOCOM__HAL_Version_.pdf)
+* Abhishek K. Mishra, Marco Fiore. "k-scale: k-Anonymizing Millions of Trajectories". IEEE INFOCOM 2026, May 2025, Tokyo, Japan. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/Efficiently_k_anonymizing_a_Million_Trajectories___IEEE_INFOCOM__HAL_Version_.pdf)
 
 *   Zhang, Haoying, Abhishek K. Mishra, and Héber H. Arcolezi. "Exploring Utility and Attackability Trade-offs in Local Differential Privacy." Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS). 2025. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/2025_LDP_Toolbox.pdf)
 
