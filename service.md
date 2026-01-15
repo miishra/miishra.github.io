@@ -4,6 +4,12 @@ title: Service
 permalink: /service/
 ---
 
+## Research Community
+- **Serving as TPC in “Privacy and Anonymity” track for ACM CCS 2026!**
+- Served as a reviewer for ACM WiSec'24
+- Served as a reviewer for ACM WiSec'25
+- Served as an external reviewer for Elsevier Pervasive and Mobile Computing, 24
+
 ## Teaching
 I was in charge of teaching courses for the Computer Science department(DIX), at l'X(Ecole Polytechnique). I taught 128 hours:
 
@@ -14,11 +20,6 @@ I was in charge of teaching courses for the Computer Science department(DIX), at
 
 I was in charge of teaching courses for the Computer Science department, at INSA, Lyon. I taught 14 hours:
 - 4TC(A)-CSC: Cryptography and Communications Security (Fall 2024) 
-
-## Research Community
-- Served as a reviewer for ACM WiSec'24
-- Served as a reviewer for ACM WiSec'25
-- Served as an external reviewer for Elsevier Pervasive and Mobile Computing, 24
 
 ## Open-source
 
