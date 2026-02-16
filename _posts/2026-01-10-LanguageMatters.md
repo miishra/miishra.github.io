@@ -44,5 +44,5 @@ Our work highlights language as a **first-class dimension** in LLM privacy analy
 
 ## Read the paper
 
-- 📄 [Preprint](https://arxiv.org/abs/2510.08813)
+- 📄 [Preprint](https://hal.science/hal-05475921v1/file/252_The_Model_s_Language_Matter_Camera_Ready.pdf)
 - 📍 To appear at **EACL 2026 (European Chapter of the Association for Computational Linguistics)**
