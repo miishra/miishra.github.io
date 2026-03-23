@@ -6,6 +6,8 @@ permalink: /publications/
 ## [Google Scholar](https://scholar.google.fr/citations?hl=en&user=4d47gF4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ### 2026:
+* Abhishek K. Mishra, Mathieu Cunche, Heber H. Arcolezi. "How Tough Is Location Anonymization? Re-identifying 100K Real-User Trajectories in Japan". ACM ASIACCS, 2026. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/_ACM_ASIACCS_2026__How_Tough_Is_Location_Anonymization__Re_identifying_100K_Real_User_Trajectories_in_Japan_HAL.pdf)
+
 * Abhishek K. Mishra, Mathieu Cunche. "StateFi: Effectively Identifying Wi-Fi Devices through State Transitions". ACM WiSec, 2026. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/StateFi.pdf)
   
 * Abhishek K. Mishra, Antoine Bouter, Lucas Magnana. "The Model's Language Matters: A Comparative Privacy Analysis of LLMs". European Chapter of the Association for Computational Linguistics (EACL 2026). [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/LangMatters.pdf)
