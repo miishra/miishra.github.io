@@ -7,10 +7,12 @@ permalink: /publications/
 
 ### 2026:
 * Abhishek K. Mishra, Mathieu Cunche, Heber H. Arcolezi. "How Tough Is Location Anonymization? Re-identifying 100K Real-User Trajectories in Japan". ACM ASIACCS, 2026. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/_ACM_ASIACCS_2026__How_Tough_Is_Location_Anonymization__Re_identifying_100K_Real_User_Trajectories_in_Japan_HAL.pdf)
-
-* Abhishek K. Mishra, Mathieu Cunche. "StateFi: Effectively Identifying Wi-Fi Devices through State Transitions". ACM WiSec, 2026. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/StateFi.pdf)
   
 * Abhishek K. Mishra, Antoine Bouter, Lucas Magnana. "The Model's Language Matters: A Comparative Privacy Analysis of LLMs". European Chapter of the Association for Computational Linguistics (EACL 2026). [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/LangMatters.pdf)
+
+* Abhishek K. Mishra, Mathieu Cunche. "StateFi: Effectively Identifying Wi-Fi Devices through State Transitions". ACM WiSec, 2026. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/StateFi.pdf)
+
+* Andrew Losty, Abhishek K. Mishra, Mathieu Cunche, Anna Maria Mandalari. "From Lookup to Lockdown: DNS Guidelines for Securing IoT Ecosystems". IEEE IoT Journal, 2026. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/IEEE_IoT_DNS_Submission_Final.pdf)
 
 ### 2025: 
 * Abhishek K. Mishra, Marco Fiore. "k-scale: k-Anonymizing Millions of Trajectories". IEEE INFOCOM 2026, May 2025, Tokyo, Japan. [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/Efficiently_k_anonymizing_a_Million_Trajectories___IEEE_INFOCOM__HAL_Version_.pdf)
