@@ -37,7 +37,3 @@ permalink: /research/
 - **Machine Learning Privacy**
   - INSA Lyon  
   - Penn State University  
-
-
-## Notes
-- Collaborations span multiple domains, reflecting interdisciplinary work across privacy, security, and machine learning.
