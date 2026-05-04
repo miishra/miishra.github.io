@@ -4,11 +4,14 @@ title: Personal
 permalink: /personal/
 ---
 
-## Personal news
-- Moved to Deutscheland in a relatively warm town of Karlsruhe.
-- Started PostDoc on 4th December 2023. Loving the cozy town of Lyon after a welcome break back home.
-- Defended my PhD. on 19th October, 2023. Had the pleasure of enjoying Paris for 6 years.
-- Enjoyed Summer@2023 on the shores of Malta and Italy.
+## 📰 News & Updates
 
-## Interesting resources
-- [Differential privacy guidelines](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/NIST-SP-800-226-SupplementalMaterial/)
+- 🇩🇪 Moved to Germany and currently based in Karlsruhe — a vibrant and welcoming city.
+- 🇫🇷 Completed my postdoctoral research in Lyon, enjoying both the academic environment and the city.
+- 🎓 Defended my PhD on October 19, 2023, after an enriching 6-year journey in Paris.
+- 🌍 Summer 2023 highlights included travels across Malta and Italy.
+
+
+## 📚 Interesting Resources
+
+- [Differential Privacy Guidelines (NIST)](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/NIST-SP-800-226-SupplementalMaterial/)
