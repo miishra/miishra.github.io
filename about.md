@@ -7,8 +7,9 @@ permalink: /about/
 Well, I am Abhi!
 
 ### More Information
+I do my research in @[Privacy and Security](https://ps.tm.kit.edu/english/index.php), [KIT](https://www.kit.edu/english/index.php), Germany, working with [Prof. Thorsten Strufe](https://ps.tm.kit.edu/english/21_101.php). 
 
-I do my research in @[Privatics](https://team.inria.fr/privatics/), Inria, Lyon working along [Mathieu Cunche](http://perso.citi-lab.fr/mcunche/index.html). 
+Previously, I was a postdoc in @[Privatics](https://team.inria.fr/privatics/), Inria, Lyon working along [Mathieu Cunche](http://perso.citi-lab.fr/mcunche/index.html). 
 
 My current research interests are: Privacy-preserving data publishing, Anonymisation and differential privacy, Privacy in Machine learning, Wireless networks security and privacy, Privacy-preserving network protocols. 
 
@@ -16,18 +17,18 @@ I work across disciplines and would be very happy to discuss potential research 
 
 ### Background
 
-I obtained Ph.D. from Inria Saclay and [Ecole Polytechnique](https://www.polytechnique.edu/) in Computer Science, titled: "Privacy-aware sensing: From addressing concerns in public wireless packets to obtaining anonymous trajectories". During my thesis I worked with [Marco Fiore](https://networks.imdea.org/team/imdea-networks-team/people/marco-fiore/), [Catuscia Palamidessi](https://www.lix.polytechnique.fr/~catuscia/), [Aline Carneiro Viana](https://pages.saclay.inria.fr/aline.viana/), and, [Nadjib Achir](https://sites.google.com/view/nadjib-achir/home).
+I obtained a Ph.D. from Inria Saclay and [Ecole Polytechnique](https://www.polytechnique.edu/) in Computer Science, titled: "Privacy-aware sensing: From addressing concerns in public wireless packets to obtaining anonymous trajectories". During my thesis I worked with [Marco Fiore](https://networks.imdea.org/team/imdea-networks-team/people/marco-fiore/), [Catuscia Palamidessi](https://www.lix.polytechnique.fr/~catuscia/), [Aline Carneiro Viana](https://pages.saclay.inria.fr/aline.viana/), and, [Nadjib Achir](https://sites.google.com/view/nadjib-achir/home).
 
-Looking briefly at my academic background, I received a dual master's in Computer Science from [KTH Royal Institute of Technology](https://www.kth.se/en) and [Sorbonne University](https://www.sorbonne-universite.fr/en) in 2020 with a full merit scholarship. My master thesis was at Inria, Paris, and Nokia Bell Labs under the supervision of [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/). 
+Looking briefly at my academic background, I received a dual master's degree in Computer Science from [KTH Royal Institute of Technology](https://www.kth.se/en) and [Sorbonne University](https://www.sorbonne-universite.fr/en) in 2020, with a full-merit scholarship. My master's thesis was conducted at Inria Paris and Nokia Bell Labs under the supervision of [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/). 
 
-I finished my engineering degree (2018) from [Indian Institute of Technology(IIT)](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology), Mandi in Electrical Engineering, where I was privileged to complete my bachelor's thesis with distinction.
+I finished my engineering degree (2018) from [Indian Institute of Technology(IIT)](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology), Mandi, in Electrical Engineering, where I was privileged to complete my bachelor's thesis with distinction.
 
 ### Contact me
-**Email**: [abhishek.mishra@inria.fr](mailto:abhishek.mishra@inria.fr) <br> 
+**Email**: [abhishek.mishra@kit.edu](mailto:abhishek.mishra@kit.edu) <br> 
 **PGP**: 0xDF2DB84C <br>
 **Fingerprint**: 01E6 C42E EC92 0F26 EDD9  1B30 EDDE 3D29 DF2D B84C
 
 **Office address**: <br> 
-Inria Lyon, Bâtiment CEI-2 <br> 
-56, Boulevard Niels Bohr <br> 
-69603 Villeurbanne <br> 
+KIT-Fakultät für Informatik <br> 
+Building 50.34, Am Fasanengarten 5 <br> 
+76131, Karlsruhe <br> 
