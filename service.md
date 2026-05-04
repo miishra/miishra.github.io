@@ -4,8 +4,6 @@ title: Service
 permalink: /service/
 ---
 
-# Service
-
 ## Research Community
 
 - **Program Committee Member**
