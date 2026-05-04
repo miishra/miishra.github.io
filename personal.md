@@ -5,6 +5,7 @@ permalink: /personal/
 ---
 
 ## Personal news
+- Moved to Deutscheland in a relatively warm town of Karlsruhe.
 - Started PostDoc on 4th December 2023. Loving the cozy town of Lyon after a welcome break back home.
 - Defended my PhD. on 19th October, 2023. Had the pleasure of enjoying Paris for 6 years.
 - Enjoyed Summer@2023 on the shores of Malta and Italy.
