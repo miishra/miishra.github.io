@@ -4,17 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-## Research Domains
-
-### 🔐 Data Privacy
-
-### 📡 Wireless Privacy & Security
-
-### 🌐 Internet Privacy
-
-### 👤 Usable Privacy
-
-
 ## Collaborations
 
 ### 🌐 International Collaborators
@@ -34,4 +23,4 @@ permalink: /research/
 
 - **Machine Learning Privacy**
   - INSA Lyon  
-  - Penn State University  
+  - Penn State University 
