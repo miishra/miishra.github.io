@@ -29,11 +29,13 @@ I work across disciplines and am always open to discussing new research ideas, c
 I obtained my Ph.D. in Computer Science from Inria Saclay and [École Polytechnique](https://www.polytechnique.edu/).  
 My thesis, *“Privacy-aware sensing: From addressing concerns in public wireless packets to obtaining anonymous trajectories”*, was conducted under the supervision of:
 
+- [Aline Carneiro Viana](https://pages.saclay.inria.fr/aline.viana/)  
+- [Nadjib Achir](https://sites.google.com/view/nadjib-achir/home)
+
+During the Ph.D. I collaborated with: 
+
 - [Marco Fiore](https://networks.imdea.org/team/imdea-networks-team/people/marco-fiore/)  
 - [Catuscia Palamidessi](https://www.lix.polytechnique.fr/~catuscia/)  
-- [Aline Carneiro Viana](https://pages.saclay.inria.fr/aline.viana/)  
-- [Nadjib Achir](https://sites.google.com/view/nadjib-achir/home)  
-
 
 ### Earlier Education
 
