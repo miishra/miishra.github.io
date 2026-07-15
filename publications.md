@@ -8,6 +8,10 @@ permalink: /publications/
 
 
 ## 2026
+- **k-scale: k-Anonymizing Millions of Trajectories**  
+  *Abhishek K. Mishra, Marco Fiore*  
+  IEEE INFOCOM, 2026  
+  [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/Efficiently_k_anonymizing_a_Million_Trajectories___IEEE_INFOCOM__HAL_Version_.pdf)
 
 - **How Tough Is Location Anonymization? Re-identifying 100K Real-User Trajectories in Japan**  
   *Abhishek K. Mishra, Mathieu Cunche, Heber H. Arcolezi*  
@@ -31,11 +35,6 @@ permalink: /publications/
 
 
 ## 2025
-
-- **k-scale: k-Anonymizing Millions of Trajectories**  
-  *Abhishek K. Mishra, Marco Fiore*  
-  IEEE INFOCOM, 2025  
-  [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/Efficiently_k_anonymizing_a_Million_Trajectories___IEEE_INFOCOM__HAL_Version_.pdf)
 
 - **Exploring Utility and Attackability Trade-offs in Local Differential Privacy**  
   *Zhang, Haoying; Abhishek K. Mishra; Héber H. Arcolezi*  
