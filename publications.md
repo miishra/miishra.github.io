@@ -8,6 +8,11 @@ permalink: /publications/
 
 
 ## 2026
+- **AirCatch: Effectively tracing advanced tag-based trackers**  
+  *Abhishek K. Mishra, Swadeep, Guevara Noubir, Mathieu Cunche*  
+  PETS, 2027
+  [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/_PETS__AirCatch__Effectively_tracing_advanced_tag_based_trackers_revised.pdf) 
+
 - **k-scale: k-Anonymizing Millions of Trajectories**  
   *Abhishek K. Mishra, Marco Fiore*  
   IEEE INFOCOM, 2026  
@@ -19,7 +24,7 @@ permalink: /publications/
   [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/_ACM_ASIACCS_2026__How_Tough_Is_Location_Anonymization__Re_identifying_100K_Real_User_Trajectories_in_Japan_HAL.pdf)
 
 - **The Model's Language Matters: A Comparative Privacy Analysis of LLMs**  
-  *Abhishek K. Mishra, Antoine Bouter, Lucas Magnana*  
+  *Abhishek K. Mishra, Antoine Boutet, Lucas Magnana*  
   EACL, 2026  
   [paper](https://github.com/miishra/miishra.github.io/blob/master/papers/LangMatters.pdf)
 
